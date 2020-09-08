@@ -6,4 +6,4 @@ Under the collaboration of:
   - Đặng Quốc Khánh
   - Phạm Trung Kiên
   - Nguyễn Huy Hoàng
-  - Minh mốc
+  - Nguyễn Đức Minh
