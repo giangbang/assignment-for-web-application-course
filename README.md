@@ -3,7 +3,7 @@ a project for a course about web developing at my university
 
 This repository is belong to Lê Bằng Giang.
 Under the collaboration of: 
-  - Đặng Quốc Khánh
+  - Đặng Quốc Khánh (confirmed)
   - Phạm Trung Kiên
   - Nguyễn Huy Hoàng
   - Nguyễn Đức Minh
